@@ -1,4 +1,4 @@
-# Borrador del código de conducta de la comunidad Python Paraguay v0.1
+# Borrador del código de conducta de la comunidad Python Paraguay v0.2
 
 ## Motivación
 https://www.djangoproject.com/conduct/faq/
@@ -23,6 +23,7 @@ Sabemos que la comunidad Python Paraguay es abierta, amigable y acogedora, y que
 * https://www.kernel.org/doc/html/latest/process/code-of-conduct.html
 
 ## VERSIÓN CORTA
+ https://www.pylatam.org/conducta/
 
 *    Se amable con todos
 *    Comportate profesionalmente
@@ -30,6 +31,15 @@ Sabemos que la comunidad Python Paraguay es abierta, amigable y acogedora, y que
 *    Se respetuoso de puntos de vista y experiencias diferentes
 *    Enfócate en hacer lo mejor para la comunidad
 *    Demuestra empatía en tus interacciones con otros
+
+
+## Ejemplos de comportamiento inaceptable(pero no limitado a esta lista):
+https://www.kernel.org/doc/html/latest/process/code-of-conduct.html
+*    El uso de lenguaje o imágenes sexualizadas y atención o avances sexuales no deseados
+*    Comentarios curiosos, insultantes / despectivos y ataques personales o políticos.
+*    Acoso público o privado
+*    Publicar información privada de otros, como una dirección física o electrónica, sin permiso explícito
+*    Otra conducta que razonablemente podría considerarse inapropiada en un entorno profesional 
 
 
 ## Alcance
