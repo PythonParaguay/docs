@@ -25,10 +25,10 @@ Sabemos que la comunidad Python Paraguay es abierta, amigable y acogedora, y que
 ## VERSIÓN CORTA
  https://www.pylatam.org/conducta/
 
-*    Se amable con todos
+*    Sé amable con todos
 *    Comportate profesionalmente
 *    Elige con cuidado tus palabras
-*    Se respetuoso de puntos de vista y experiencias diferentes
+*    Sé respetuoso ante puntos de vista y experiencias diferentes
 *    Enfócate en hacer lo mejor para la comunidad
 *    Demuestra empatía en tus interacciones con otros
 
