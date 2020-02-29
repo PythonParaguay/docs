@@ -22,6 +22,7 @@ Sabemos que la comunidad Python Paraguay es abierta, amigable y acogedora, y que
 * https://www.contributor-covenant.org/es/version/1/4/code-of-conduct
 * https://www.kernel.org/doc/html/latest/process/code-of-conduct.html
 * https://wiki.gnome.org/Foundation/CodeOfConduct
+* https://bsidestampa.net/code-of-conduct/
 
 ## VERSIÓN CORTA
  https://www.pylatam.org/conducta/
