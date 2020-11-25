@@ -41,7 +41,7 @@ https://www.kernel.org/doc/html/latest/process/code-of-conduct.html
 *    Comentarios curiosos, insultantes / despectivos y ataques personales o políticos.
 *    Acoso público o privado
 *    Publicar información privada de otros, como una dirección física o electrónica, sin permiso explícito
-*    Otra conducta que razonablemente podría considerarse inapropiada en un entorno profesional
+*    Otra conducta que razonablemente podría considerarse inapropiada en un entorno profesional o académico
 *    Compartir o promocionar contenido ilegal y/o pirateado o que no tengas permiso de compartir
 
 
