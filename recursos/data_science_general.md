@@ -1,5 +1,5 @@
 # Data Science
-Aqui podes encontrar todo tipo de recursos relacionados
+Aquí podes encontrar todo tipo de recursos relacionados
 a ***Data Science***. Recursos recomendados por los miembros de nuestra comunidad.
 Algunos recursos en español y otros en ingles.
 
@@ -16,7 +16,7 @@ Algunos recursos en español y otros en ingles.
 ---
 
 ## MATERIAL DE LECTURA
-En esta seccion podes encontrar recomendaciones de libros que podes 
+En esta sección podes encontrar recomendaciones de libros que podes 
 adquirir.
 <!-- ------------------------INICIO CONTRIBUCIONES---------------------- -->
 
@@ -29,7 +29,7 @@ adquirir.
 ---
 
 ## YOUTUBE
-Seccion dedicada a tutoriales o ***crashcourses***.
+Sección dedicada a tutoriales o ***crashcourses***.
 <!-- ------------------------INICIO CONTRIBUCIONES---------------------- -->
 
 
@@ -40,7 +40,7 @@ Seccion dedicada a tutoriales o ***crashcourses***.
 ---
 
 ## Cursos 
-Seccion dedicada a cursos de programacion. 
+Sección dedicada a cursos de programación. 
 <!-- ------------------------INICIO CONTRIBUCIONES---------------------- -->
 
 
@@ -52,7 +52,7 @@ Seccion dedicada a cursos de programacion.
 ---
 
 ## Conferencias
-Seccion dedicada a recomendaciones de conferencias online u otra.
+Sección dedicada a recomendaciones de conferencias online u otra.
 <!-- ------------------------INICIO CONTRIBUCIONES---------------------- -->
 
 
@@ -65,7 +65,7 @@ Seccion dedicada a recomendaciones de conferencias online u otra.
 
 
 ## A quien seguir? 
-Seccion dedicada a recomendaciones de cuentas o usuarios de redes sociales
+Sección dedicada a recomendaciones de cuentas o usuarios de redes sociales
 que producen contenido de utilidad.
 <!-- ------------------------INICIO CONTRIBUCIONES---------------------- -->
 

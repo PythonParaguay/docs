@@ -1,13 +1,13 @@
 # Como contribuir?
-Si te fue util el contenido de este repo y queres hacer tu aporte
-podes usar esta guia.
+Si te fue útil el contenido de este repo y quieres hacer tu aporte
+podes usar esta guía.
 
 ---
 ## **IMPORTANTE!**
 **Recorda siempre que los principales beneficiados de los 
-recursos que quieras recomendar, son personas en busca de orientacion y poca
-o nula experiencia en programacion, 
-por esta razon intenta siempre aportar la mayor cantidad de informacion que puedas.**
+recursos que quieras recomendar, son personas en busca de orientación y poca
+o nula experiencia en programación, 
+por esta razón intenta siempre aportar la mayor cantidad de información que puedas.**
 
 Te ofrecemos algunos ***templates*** que podes usar para hacer tu aporte.
 
@@ -26,9 +26,9 @@ Te ofrecemos algunos ***templates*** que podes usar para hacer tu aporte.
 ---
 
 ## MATERIAL DE LECTURA
-En esta seccion podes encontrar recomendaciones de libros que podes 
+En esta sección podes encontrar recomendaciones de libros que podes 
 adquirir.
-Para agregar tu contribucion podes usar el siguiente template.
+Para agregar tu contribución podes usar el siguiente template.
 
 ```Markdown
 <!-- -------------------------- -->
@@ -38,6 +38,8 @@ Para agregar tu contribucion podes usar el siguiente template.
 **UBICACION**
 <!-- TIPO libro/tutorial/articulo-->
 **TIPO**
+<!-- TEMA "tema principal recurso"-->
+**[Tema]**
 <!-- AUTOR -->
 **AUTOR**
 <!-- IDIOMA -->
@@ -50,8 +52,8 @@ fermentum leo, quis tempor ligula erat quis odio.
 ---
 
 ## YOUTUBE
-Seccion dedicada a tutoriales o ***crashcourses***.
-Para agregar tu contribucion podes usar el siguiente template.
+Sección dedicada a tutoriales o ***crashcourses***.
+Para agregar tu contribución podes usar el siguiente template.
 
 ```Markdown
 <!-- -------------------------- -->
@@ -61,7 +63,7 @@ Para agregar tu contribucion podes usar el siguiente template.
 **[Idioma]**
 <!-- TIPO tutorial/charla/playlist -->
 **[Tipo]**
-<!-- TEMA -->
+<!-- TEMA "tema principal recurso"-->
 **[Tema]**
 <!-- DESCRIPCION Y PORQUE LA RECOMENDACION-->
 - Fusce suscipit, wisi nec facilisis facilisis, est dui 
@@ -71,8 +73,8 @@ fermentum leo, quis tempor ligula erat quis odio.
 ---
 
 ## Cursos 
-Seccion dedicada a cursos de programacion. 
-Para agregar tu contribucion podes usar el siguiente template.
+Sección dedicada a cursos de programación. 
+Para agregar tu contribución podes usar el siguiente template.
 ```Markdown
 <!-- -------------------------- -->
 <!-- TITULO -->
@@ -83,6 +85,8 @@ Para agregar tu contribucion podes usar el siguiente template.
 **AUTOR**
 <!-- IDIOMA -->
 **[Idioma]**
+<!-- TEMA "tema principal recurso"-->
+**[Tema]**
 <!-- DESCRIPCION Y PORQUE LA RECOMENDACION-->
 - Fusce suscipit, wisi nec facilisis facilisis, est dui 
 fermentum leo, quis tempor ligula erat quis odio.  
@@ -91,8 +95,8 @@ fermentum leo, quis tempor ligula erat quis odio.
 ---
 
 ## Conferencias
-Seccion dedicada a recomendaciones de conferencias online u otra.
-Para agregar tu contribucion podes usar el siguiente template.
+Sección dedicada a recomendaciones de conferencias online u otra.
+Para agregar tu contribución podes usar el siguiente template.
 
 ```Markdown
 <!-- -------------------------- -->
@@ -102,6 +106,8 @@ Para agregar tu contribucion podes usar el siguiente template.
 **AUTOR**
 <!-- IDIOMA -->
 **[Idioma]**
+<!-- TEMA "tema principal recurso"-->
+**[Tema]**
 <!-- DESCRIPCION Y PORQUE LA RECOMENDACION-->
 - Fusce suscipit, wisi nec facilisis facilisis, est dui 
 fermentum leo, quis tempor ligula erat quis odio.  
@@ -112,9 +118,9 @@ fermentum leo, quis tempor ligula erat quis odio.
 
 
 ## A quien seguir? 
-Seccion dedicada a recomendaciones de cuentas o usuarios de redes sociales
+Sección dedicada a recomendaciones de cuentas o usuarios de redes sociales
 que producen contenido de utilidad.
-Para agregar tu contribucion podes usar el siguiente template.
+Para agregar tu contribución podes usar el siguiente template.
 
 ```Markdown
 <!-- -------------------------- -->
@@ -135,7 +141,7 @@ fermentum leo, quis tempor ligula erat quis odio.
 
 
 ## DEV Setup 
-Seccion dedicada a la sugerencia de setup de desarrollo. Ej: IDE, librerias, etc. 
+Sección dedicada a la sugerencia de setup de desarrollo. Ej: IDE, librerías, etc. 
 
 ```Markdown
 <!-- -------------------------- -->
