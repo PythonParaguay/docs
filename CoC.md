@@ -1,4 +1,4 @@
-# Borrador del código de conducta de la comunidad Python Paraguay v0.3
+# Borrador del código de conducta de la comunidad Python Paraguay v0.4
 
 ## Motivación
 https://www.djangoproject.com/conduct/faq/
@@ -43,6 +43,7 @@ https://www.kernel.org/doc/html/latest/process/code-of-conduct.html
 *    Publicar información privada de otros, como una dirección física o electrónica, sin permiso explícito
 *    Otra conducta que razonablemente podría considerarse inapropiada en un entorno profesional o académico
 *    Compartir o promocionar contenido ilegal y/o pirateado o que no tengas permiso de compartir
+*    Spam o promociones sin permiso
 
 
 ## Alcance
