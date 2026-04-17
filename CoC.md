@@ -15,13 +15,12 @@ Sabemos que la comunidad Python Paraguay es abierta, amigable y acogedora, y que
 ## VERSIÓN CORTA
  https://www.pylatam.org/conducta/
 
-*    Sé amable con todos
-*    Comportate profesionalmente
-*    Elige con cuidado tus palabras
-*    Sé respetuoso ante puntos de vista y experiencias diferentes
-*    Enfócate en hacer lo mejor para la comunidad
-*    Demuestra empatía en tus interacciones con otros
-
+* Sé amable con todos
+* Comportate profesionalmente
+* Elegí con cuidado tus palabras
+* Sé respetuoso ante puntos de vista y experiencias diferentes
+* Enfocate en hacer lo mejor para la comunidad
+* Demostrá empatía en tus interacciones con otros
 
 ## Ejemplos de comportamiento inaceptable (pero no se limitan a esta lista):
 https://www.kernel.org/doc/html/latest/process/code-of-conduct.html
