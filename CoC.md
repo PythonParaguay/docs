@@ -35,15 +35,17 @@ Sabemos que la comunidad Python Paraguay es abierta, amigable y acogedora, y que
 *    Demuestra empatía en tus interacciones con otros
 
 
-## Ejemplos de comportamiento inaceptable(pero no limitado a esta lista):
+## Ejemplos de comportamiento inaceptable (pero no se limita a esta lista):
 https://www.kernel.org/doc/html/latest/process/code-of-conduct.html
-*    El uso de lenguaje o imágenes sexualizadas y atención o avances sexuales no deseados
-*    Comentarios curiosos, insultantes / despectivos y ataques personales o políticos.
-*    Acoso público o privado
-*    Publicar información privada de otros, como una dirección física o electrónica, sin permiso explícito
-*    Otra conducta que razonablemente podría considerarse inapropiada en un entorno profesional o académico
-*    Compartir o promocionar contenido ilegal y/o pirateado o que no tengas permiso de compartir
-*    Spam o promociones sin permiso
+
+* Uso de lenguaje o imágenes sexistas o sexualizadas, así como atención o avances sexuales no deseados.
+* Trolling, comentarios insultantes o despectivos, y ataques personales o políticos.
+* Acoso público o privado.
+* Publicación de información privada de otras personas, como una dirección física o de correo electrónico, sin permiso explícito.
+* Cualquier otra conducta que razonablemente pueda considerarse inapropiada en un entorno profesional o académico.
+* Compartir o promocionar contenido ilegal, pirateado o para el cual no se tenga permiso de distribución.
+* Envío de spam o promociones sin autorización.
+* Fomentar, incitar o dirigir a otras personas a participar en cualquiera de los comportamientos inaceptables mencionados.
 
 
 ## Alcance
